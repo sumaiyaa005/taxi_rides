@@ -1,0 +1,3 @@
+yellow:#F1C93B
+
+padd_small_60
